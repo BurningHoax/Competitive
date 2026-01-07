@@ -1,0 +1,9 @@
+# VS Code Code Runner temp files
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.exe
+
+# General C++ build artifacts
+*.exe
+*.out
+*.obj
+*.o
